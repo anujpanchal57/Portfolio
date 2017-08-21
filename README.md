@@ -9,6 +9,6 @@ Basically, it is a small portfolio developed using `HTML` & `CSS`
 
 ## Screenshots
 
-![Alt text](images/Screenshot (52).png)
+![Alt text](/images/Screenshot (52).png)
 
-![Alt text](images/Screenshot (53).png)
+![Alt text](/images/Screenshot (53).png)
